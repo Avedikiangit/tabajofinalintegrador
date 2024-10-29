@@ -1,0 +1,95 @@
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Negocio.dll
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Negocio.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.sourcelink.json
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.Up2Date
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\C#\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\C#\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.dll
+C:\C#\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.pdb
+C:\C#\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Negocio.dll
+C:\C#\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Negocio.pdb
+C:\C#\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\C#\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\C#\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\C#\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\C#\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.sourcelink.json
+C:\C#\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.Up2Date
+C:\C#\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.dll
+C:\C#\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\C#\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.pdb
+C:\C#\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Negocio.dll
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Negocio.pdb
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Negocio.dll
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Negocio.pdb
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Negocio.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Negocio.pdb
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.sourcelink.json
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.Up2Date
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\ref\Datos.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\NLog.config
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\NLog.config
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Negocio.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\bin\Debug\net6.0\Negocio.pdb
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Datos\obj\Debug\net6.0\ref\Datos.dll

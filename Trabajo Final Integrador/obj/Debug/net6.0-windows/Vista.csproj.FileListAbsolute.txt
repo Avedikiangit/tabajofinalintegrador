@@ -1,0 +1,234 @@
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.exe
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.deps.json
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\bin\Debug\net6.0-windows\NLog.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmMain.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.Up2Date
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I-master\Trabajo Final Integrador\obj\Debug\net6.0-windows\ref\Vista.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.exe
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.deps.json
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\NLog.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmMain.resources
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.sourcelink.json
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.Up2Date
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Nueva carpeta\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\ref\Vista.dll
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmMain.resources
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.sourcelink.json
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.dll
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.exe
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.deps.json
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.dll
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\NLog.dll
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.dll
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.pdb
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.Up2Date
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Nueva carpeta (3)\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\ref\Vista.dll
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.exe
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.deps.json
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.dll
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.pdb
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\NLog.dll
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\RestSharp.dll
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.dll
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.dll
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.pdb
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.pdb
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmMain.resources
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.sourcelink.json
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.Up2Date
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.dll
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.pdb
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\ref\Vista.dll
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.exe
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.deps.json
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.dll
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.pdb
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\NLog.dll
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.dll
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.pdb
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmMain.resources
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.CopyComplete
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.dll
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.pdb
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\ref\Vista.dll
+C:\Users\LN\Desktop\TFI\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmNew.resources
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmNew.resources
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmEdit.resources
+C:\C#\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.exe
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.deps.json
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.dll
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.pdb
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\NLog.dll
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.dll
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.pdb
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmEdit.resources
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmMain.resources
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmNew.resources
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.CopyComplete
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.dll
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.pdb
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\Users\LN\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\ref\Vista.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.exe
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.deps.json
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.pdb
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\NLog.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.pdb
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmEdit.resources
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmMain.resources
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmNew.resources
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.sourcelink.json
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.Up2Date
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.pdb
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\ref\Vista.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\NLog.config
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\NLog.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.dll.config
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.exe
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\NLog.config
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.dll.config
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.deps.json
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Vista.pdb
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\NLog.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\NLog.Extensions.Logging.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\bin\Debug\net6.0-windows\Negocio.pdb
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmEdit.resources
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmMain.resources
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.FrmNew.resources
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.csproj.CopyComplete
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.pdb
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\ref\Vista.dll
+C:\Users\paqui\Source\Repos\Trabajo-Final-Integrador-I\Trabajo Final Integrador\obj\Debug\net6.0-windows\Trabajo_Final_Integrador.Properties.Resources.resources
