@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3ua9d3NjPm+amsqPG7bQwubrVSvFPJLk9XoUrNUT6j2+h/4P1GiXVaQd+kLVtTc4KiZffWdWeQyEx2Vq3Di7IQ==",
+  "dgSpecHash": "+0BdsVQ3f5YkybNCAgbxTkYNNiHhdU3ub1YWPxfxxgxdEZURhDEEipgOcl1zgfv4pWSXHLHbh8nNRWwcYGG/VA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paqui\\Source\\Repos\\Trabajo-Final-Integrador-I\\Negocio\\Negocio.csproj",
+  "projectFilePath": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Negocio\\Negocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paqui\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\paqui\\.nuget\\packages\\nlog\\5.3.4\\nlog.5.3.4.nupkg.sha512",

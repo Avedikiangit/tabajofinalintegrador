@@ -12,7 +12,7 @@ namespace Datos
     {
         private static readonly Logger logger = LogManager.GetCurrentClassLogger();
         RestClient client;
-        List<string>? Categories;
+        List<string> Categories;
         private readonly string? baseUrl;
 
         public ConnecectionApi()

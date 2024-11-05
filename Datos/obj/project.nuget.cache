@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gh/leeCLElPnxasrj8n7sWPrFWhvQUEr2RNQE15GRiQKg5zFUfPaTO4VDS8dGVzrMVTWHRf835PZy8tLXRL7Aw==",
+  "dgSpecHash": "DMuR/y8PijG85KLAHUhQDUeVC5oIt1rxm/mFi22DEBMpN6XvAIq0Ba7M2i9vQv5qAYlVM0/QE92NyMzttm+FVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paqui\\Source\\Repos\\Trabajo-Final-Integrador-I\\Datos\\Datos.csproj",
+  "projectFilePath": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Datos\\Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paqui\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\paqui\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
