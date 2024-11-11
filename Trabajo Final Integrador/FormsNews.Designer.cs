@@ -1,6 +1,6 @@
 ﻿namespace Trabajo_Final_Integrador
 {
-    partial class FrmNew
+    partial class FormsNews
     {
         /// <summary>
         /// Required designer variable.

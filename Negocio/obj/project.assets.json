@@ -234,24 +234,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\paqui\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\LN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Negocio\\Negocio.csproj",
+      "projectUniqueName": "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Negocio\\Negocio.csproj",
       "projectName": "Negocio",
-      "projectPath": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Negocio\\Negocio.csproj",
-      "packagesPath": "C:\\Users\\paqui\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Negocio\\obj\\",
+      "projectPath": "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Negocio\\Negocio.csproj",
+      "packagesPath": "C:\\Users\\LN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Negocio\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\paqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\LN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -310,7 +305,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

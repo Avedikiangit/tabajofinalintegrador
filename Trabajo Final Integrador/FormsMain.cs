@@ -5,13 +5,13 @@ using System.Configuration;
 
 namespace Trabajo_Final_Integrador
 {
-    public partial class FrmMain : Form
+    public partial class FormsMain : Form
     {
         ConnecectionApi connecectionApi;
         public List<ApiProducts> Products;
         public List<string>? Categories;
         public List<ApiProducts>? FilteredProducts;
-        public FrmMain()
+        public FormsMain()
         {
             InitializeComponent();
             Products = new List<ApiProducts>();
@@ -91,7 +91,7 @@ namespace Trabajo_Final_Integrador
 
         private void btnNew_Click(object sender, EventArgs e)
         {
-            using (FrmNew form = new FrmNew(this.Products))
+            using (FormsNews form = new FormsNews(this.Products))
             {
                 if (form.ShowDialog() == DialogResult.OK)
                 {
@@ -112,7 +112,7 @@ namespace Trabajo_Final_Integrador
             var filteredProducts = (List<ApiProducts>)dataGridView.DataSource;
             var selectedProduct = filteredProducts[e.RowIndex];
 
-            using (FrmEdit form = new FrmEdit(selectedProduct, this.Products))
+            using (FormsEdit form = new FormsEdit(selectedProduct, this.Products))
             {
                 if (form.ShowDialog() == DialogResult.OK)
                 {

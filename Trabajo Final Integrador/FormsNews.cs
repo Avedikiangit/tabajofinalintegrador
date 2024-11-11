@@ -12,13 +12,13 @@ using System.Windows.Forms;
 
 namespace Trabajo_Final_Integrador
 {
-    public partial class FrmNew : Form
+    public partial class FormsNews : Form
     {
 
         private ErrorProvider _errorProvider = new ErrorProvider();
         public List<ApiProducts> newProducts { get; private set; }
 
-        public FrmNew(List<ApiProducts> existingProducts)
+        public FormsNews(List<ApiProducts> existingProducts)
         {
             InitializeComponent();
             this.newProducts = existingProducts;

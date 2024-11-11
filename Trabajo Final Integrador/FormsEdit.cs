@@ -3,14 +3,14 @@ using Negocio;
 
 namespace Trabajo_Final_Integrador
 {
-    public partial class FrmEdit : Form
+    public partial class FormsEdit : Form
     {
         private readonly ErrorProvider _errorProvider = new ErrorProvider();
         private readonly ConnecectionApi _connecectionApi;
         private ApiProducts _product;
         public List<ApiProducts> EditedProducts { get; private set; }
 
-        public FrmEdit(ApiProducts product, List<ApiProducts> oldList)
+        public FormsEdit(ApiProducts product, List<ApiProducts> oldList)
         {
             InitializeComponent();
             _product = product;

@@ -2,13 +2,13 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <Compile Update="FrmEdit.cs">
+    <Compile Update="FormsEdit.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FrmMain.cs">
+    <Compile Update="FormsMain.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FrmNew.cs">
+    <Compile Update="FormsNews.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

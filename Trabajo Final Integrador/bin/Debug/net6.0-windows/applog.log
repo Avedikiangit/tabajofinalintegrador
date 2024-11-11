@@ -1,0 +1,4 @@
+2024-11-11 20:12:40.5126 INFO Productos obtenidos con exito: 20 
+2024-11-11 20:12:40.5377 INFO Metodo GetProducts ejecutado satisfactoriamente. Lista de productos actualizada 
+2024-11-11 20:12:42.8797 INFO Ejecutando metodo GetCategories 
+2024-11-11 20:12:43.1408 INFO Categorias obtenidas correctamente: electronics, jewelery, men's clothing, women's clothing 

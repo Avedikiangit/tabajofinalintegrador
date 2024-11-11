@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Trabajo Final Integrador\\Vista.csproj": {}
+    "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Trabajo Final Integrador\\Vista.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Datos\\Datos.csproj": {
+    "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Datos\\Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Datos\\Datos.csproj",
+        "projectUniqueName": "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Datos\\Datos.csproj",
         "projectName": "Datos",
-        "projectPath": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Datos\\Datos.csproj",
-        "packagesPath": "C:\\Users\\paqui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Datos\\obj\\",
+        "projectPath": "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Datos\\Datos.csproj",
+        "packagesPath": "C:\\Users\\LN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Datos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\paqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\LN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Negocio\\Negocio.csproj": {
-                "projectPath": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Negocio\\Negocio.csproj"
+              "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Negocio\\Negocio.csproj": {
+                "projectPath": "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Negocio\\Negocio.csproj"
               }
             }
           }
@@ -85,25 +81,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Negocio\\Negocio.csproj": {
+    "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Negocio\\Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Negocio\\Negocio.csproj",
+        "projectUniqueName": "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Negocio\\Negocio.csproj",
         "projectName": "Negocio",
-        "projectPath": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Negocio\\Negocio.csproj",
-        "packagesPath": "C:\\Users\\paqui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Negocio\\obj\\",
+        "projectPath": "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Negocio\\Negocio.csproj",
+        "packagesPath": "C:\\Users\\LN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Negocio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\paqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\LN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -162,25 +154,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Trabajo Final Integrador\\Vista.csproj": {
+    "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Trabajo Final Integrador\\Vista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Trabajo Final Integrador\\Vista.csproj",
+        "projectUniqueName": "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Trabajo Final Integrador\\Vista.csproj",
         "projectName": "Vista",
-        "projectPath": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Trabajo Final Integrador\\Vista.csproj",
-        "packagesPath": "C:\\Users\\paqui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Trabajo Final Integrador\\obj\\",
+        "projectPath": "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Trabajo Final Integrador\\Vista.csproj",
+        "packagesPath": "C:\\Users\\LN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Trabajo Final Integrador\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\paqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\LN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -194,11 +182,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Datos\\Datos.csproj": {
-                "projectPath": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Datos\\Datos.csproj"
+              "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Datos\\Datos.csproj": {
+                "projectPath": "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Datos\\Datos.csproj"
               },
-              "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Negocio\\Negocio.csproj": {
-                "projectPath": "C:\\Users\\paqui\\source\\repos\\tabajofinalintegrador\\Nueva carpeta\\Negocio\\Negocio.csproj"
+              "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Negocio\\Negocio.csproj": {
+                "projectPath": "C:\\Users\\LN\\Source\\Repos\\tabajofinalintegrador\\Negocio\\Negocio.csproj"
               }
             }
           }
@@ -249,7 +237,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,6 +1,6 @@
 ﻿namespace Trabajo_Final_Integrador
 {
-    partial class FrmEdit
+    partial class FormsEdit
     {
         /// <summary>
         /// Required designer variable.
